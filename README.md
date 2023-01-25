@@ -1,3 +1,5 @@
 # Desktop-Voice-Assistant
 
-This is a desktop voice assistant which works by processing the voice input from the user and identifying the keywords from it and executing the respective command. Several python libraries like pyttsx3, pywhatkit, speech recognition etc libraries are used to build this assistant.
+This voice assistant enables the user to input commands using their voice. After receiving the voice input from the user, it processes the input command and identifies the keywords in it and executes the task accordingly. This assistant is built using various python libraries including speech_recognition, pyttsx3 , pywhatkit, datetime and other python libraries. It performs tasks like opening a website that you asked for, performing basic mathematic calculations, It reads a summary about a person that you are looking for from Wikipedia and many more
+
+This is a fun and very useful tool
